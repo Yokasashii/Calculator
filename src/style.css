@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
-  background-image: url("../assets/Sprite - Base calculator.gif");
+  background-image: url("../assets/BaseCalculator.gif");
 }
 
 .calculatrice{
@@ -32,7 +32,7 @@ body {
 }
 
 .key {
-  margin-top: 30px;
+  margin-top: 31px;
   display: grid;
   grid-template-columns: repeat(4, 42px);
   grid-template-rows: repeat(5, 41px) ;
